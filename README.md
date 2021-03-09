@@ -1,5 +1,4 @@
-# week-2-GoddayOkos
-week-2-GoddayOkos created by GitHub Classroom
+# Actitvity Lifecycle and Fragment
 
 Problem Description
 
