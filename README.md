@@ -19,3 +19,11 @@ Build an activity with two buttons at the top of the activity.
 One button should add a new fragment with a textview on the fragment showing the current position of the fragment in the stack.
 
 Second button should remove the topmost fragment from the stack.
+
+Screenshot_20210311-212734.png![image](https://user-images.githubusercontent.com/60139290/110863809-8107c080-82c1-11eb-8dfd-71fe1569782f.png)
+
+Screenshot_20210311-212801.png![image](https://user-images.githubusercontent.com/60139290/110863830-8c5aec00-82c1-11eb-837b-f240514650a7.png)
+
+Screenshot_20210311-212806.png![image](https://user-images.githubusercontent.com/60139290/110863872-9bda3500-82c1-11eb-8bb6-2a780c1e06cd.png)
+
+
